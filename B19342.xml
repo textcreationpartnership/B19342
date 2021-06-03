@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation. Charles R. Whereas the safeguard and protection we owe to such of our own subjects, and to all others in league and amity with us, as pass and repass the seas belonging to these our kingdoms, hath been always a principal part of our royal care and concern; ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19342</idno><idno type="EEBO-CITATION">99884061_191397</idno>
+  <idno type="VID">191397</idno>
+  <idno type="EEBO-PROQUEST">2264208341</idno>
+  
+            <idno type="STC">Wing C3209A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[207]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[199]</idno>
+            <idno type="STC">ESTC R213166</idno>
+            <idno type="PROQUEST">ocm99884061</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884061e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191397)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[207]; C18:2[199])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation. Charles R. Whereas the safeguard and protection we owe to such of our own subjects, and to all others in league and amity with us, as pass and repass the seas belonging to these our kingdoms, hath been always a principal part of our royal care and concern; ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill deceas'd: and by Henry Hills, and Thomas Newcomb, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683/4. [1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and first lines of text.</note>
+                  <note>At end of text: Given at our court at Newmarket the twelfth day of March, in the six and thirtieth year of our reign, 1683/4.</note>
+                  <note>Steele notation: Arms 88  and may 2) one Our.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1756 as Wing (2nd ed.) C3597B.</note>
+                  <note>Filmed copy at UMI Tract Supplement reel C18 consists of one contiguous sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  1660-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191397:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>C R</head>
+                  <q>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King. A PROCLAMATION.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Safeguard and Protection We owe to such of Our own Subjects, and to all others in League and Amity with Vs, as pass and repass the Seas belonging to these Our Kingdoms, hath been always a Prin<g ref="char:EOLhyphen"/>cipal part of Our Royal Care and Concern; And We <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nding that the Freedom and Security of Navigation and Commerce to and from Our Ports in times of Hostility between Our Neighbour Princes hath been much disturbed, nay the Reverence due to Our Ports, Harbours, and other Places under Our immediate Protection, hath been violated by the Piratical Practices, Depredations, and Insolencies of Private Men of War, and others pretending Commission for the present Hostilit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es; We have thought fit, by the Advice of Our Privy Council, after an exact view first taken of the Rules, Ordinances, and Provisions made upon the like occasi<g ref="char:EOLhyphen"/>ons by Our Royal Progenitors, and Our Self, to Revive, Establish, Ratifie and Publish to all the World, these Rules and Ordinances following. Our Royal Will and Pleasure therefore is;</p>
+            <p n="1">
+               <hi>I.</hi> That within Our Ports, Havens, Roads and Creeks, as also in every other Place or Tract at Sea, that may be reasonably construed to be within any of those Denominations, Limits, or Precincts, there shall be an Inviolable Truce and Cessation of all Hostilities between all Persons and Parties whatsoever, and that no Force, Violence, Surprize or Offence shall be done therein, either from Man of War to Man of War, or from Man of War to Merchant, or from Merchant to Mer<g ref="char:EOLhyphen"/>chant, that happen to be in Hostility the one against the other; but that all, of what Nation or Party soever, so long as they shall be with<g ref="char:EOLhyphen"/>in Our Ports, Harbours, or other Places reputed to be within Our more immediate Protection, and where Our Commanders and Offi<g ref="char:EOLhyphen"/>cers are accomptable for the Publick Peace, shall be understood to be under Our Special Safe-Conduct, and must keep the Peace inviola<g ref="char:EOLhyphen"/>bly each with other. And We do further Declare, and hereby Denounce, That the Ships and Goods of all Aggressors, Actors, and Of<g ref="char:EOLhyphen"/>fenders whatsoever against the true meaning of this Our Ordinance and Proclamation, are and shall be <hi>ipso facto</hi> Confiscate, and pro<g ref="char:EOLhyphen"/>ceeded against in Our High Court of Admiralty, to Sentence and Condemnation, according to Law, notwithstanding any Commission of War, or Letters of Reprizals such Offenders may have, or pretend to have for their justification.</p>
+            <p n="2">
+               <hi>II.</hi> We Will and Command, That all Our Officers and Subjects by Sea and Land, do as much as in them lies, Prohibit the Roving and Hovering of Men of War so near the Entry of any of Our Harbours, or Our Coasts, as that Merchant-men home-ward or out<g ref="char:EOLhyphen"/>ward-bound, to or from any of Our Ports, shall apprehend their Passage to be unsafe, or their danger of being Set upon and Surprized apparent, to the hindring and diverting of Trade and Commerce from Our Ports. And We do straitly Charge and Require Our said Of<g ref="char:EOLhyphen"/>ficers and Subjects to Rescue, Succour and Defend all Merchant-men, and others that shall happen to be Set upon or Surprized so near Our Coasts, or the Entry of Our Harbours, as may be easily construed to be under Our more special Care and Protection, and that they Apprehend and Seize all Offenders in this kind, in order to bring them to Condign Punishment, for Disturbing and Hindring the Trade and Commerce between Our Subjects, and those of Our Neighbours and Allies.</p>
+            <p n="3">
+               <hi>III.</hi> That where it happens that a Man of War of the one Party come into any of Our Ports where there shall be a Merchant-man (one or more) of the other Party, such Merchant Ship or Ships, if they desire it, shall be suffered to depart the Port two Tides before the Man of War, to the intent they may get themselves out of his reach and pursuit; And if it happen that any Man of War (one or more of the one Party do come in while any Man (or Men) of War of the other Party are in Our Ports or Roads, none shall be suffered to go out to Sea the same Tide with his Enemy, but those that are most likely to Pursue and Engage assoon as they are out of Our Ports, shall be stay<g ref="char:EOLhyphen"/>ed and detained two Tides after those of the adverse Party are put to Sea.</p>
+            <p n="4">
+               <hi>IV.</hi> And We do hereby Charge and Require all Vice-Admirals, Customers, and other Our Officers in Ports and Maritime Places, That they Visit all Ships and Vessels belonging to Our Subjects, that shall Victual, Furnish, or Recruit themselves for Voyages at Sea, and that they stay and detain all such as they shall suspect by the Provision or Furniture to be designed for any other than Trading or Fishing Voyages, until further Order from Vs, or Our Lord High-Admiral, or Our Commissioners for Executing the Office of Lord High-Admiral for the time being in that behalf.</p>
+            <p n="5">
+               <hi>V.</hi> And We do further straitly Command and Require all Governours and Officers in Ports, and other Maritime Places, not to suffer any Private Man of War Sailing by a Foreign Commission, and having any Prize or Prizes (that he may have taken) in his power and pos<g ref="char:EOLhyphen"/>session, to stay above Twenty four hours in any of Our Ports or Harbours, unless he be thereto constrained by contrary Winds, Blocking up by Enemies, or other Distress; Yet so that during his stay, he do not break Bulk, Sell, Barter, or leave behind him any of his Prize-Goods, upon any terms or pretence whatsoever. And We further Require Our Officers and Subjects not to interpose or meddle in the Affairs and Proceedings of such Men of War as put into Our Ports upon any Distress, with Foreign Commissions, but to suffer them to carry away their Prizes whither themselves think fit; Provided they have not the Goods or Merchandizes of any of Our own Subjects on Board such Prizes: Which if they happen to have, Our meaning is, That they be upon due proof taken out and restored to the true Proprietors.</p>
+            <p n="6">
+               <hi>VI.</hi> We do straitly Require and Command, That none of Our Subjects, of what degreé or condition soever, do presume to Buy, Con<g ref="char:EOLhyphen"/>tract, or Deal with any Foreign Men of War, their Officers, or Company, or with any other person coming from Sea, not being a known Merchant, for any Wares, Merchandizes, Victuals, Ammunition, Tackle, Furniture, Provisions or Goods whatsoever, not brought in by the Course of Merchandize, and the Custom and Duties upon them first paid, upon pain of forfeiting all such Wares and Goods as <hi>Bona Piratarum</hi> ought to be, and of being further Proceéded against and Punished in Our High Court of Admiralty, as Abetters and Com<g ref="char:EOLhyphen"/>plices of Pirats, and as Receivers of Pirats and their Goods ought to be by the Laws and Customs of the Sea in that behalf.</p>
+            <p n="7">
+               <hi>VII.</hi> And whereas divers of Our Subjects out of their inclinations to Rapine, and Licentious Courses, rather than to Trading Voy<g ref="char:EOLhyphen"/>ages, and other honest Employments at home, do engage some of the one side, and some of the other, in the Quarrels of Our Neighbour Princes now in War, without Our Leave or Permission; We do hereby straitly Command and Require, That no Officer or Mariner whatsoever, being Our Subject, do presume to put himself into the Martial Service of any Foreign Prince or State, or accept of and exe<g ref="char:EOLhyphen"/>cute any Commission of War, or Letter of Marque, or Reprizal, from any such Prince or State, or go in any Merchant or Fishing Voyage, in any other Ship or Vessel than such as belong to Our own Subjects, without leave from Our Self, or Our Lord High Admiral, or Our Commissioners for Executing the Office of Lord High Admiral for the time being, in due form first obtained. And We do hereby Charge and Command all Officers, Mariners, and Sea-faring Men whatsoever, that are now in any such Service, to leave the same forthwith, and to get their Appearance, and Return to their Native Countrey Recorded in Our High Court of Admiralty, or before some of Our Officers thereunto Impowered, upon pain of being Reputed and Punished as Pirats. And in case any Officer or Mariner neglecting to return upon these Our Summons, happen at any time hereafter to come into any Port or Place of Our Dominions, We do hereby Charge and Require all Vice-Admirals, and Our Officers in Ports and Maritime Places, to Apprehend and Seize such Person or Persons, and him or them so Seized, to Commit to the next Gaol, there to remain until further Order, and the Certificate thereof to return with all speéd into Our High Court of Admiralty, to the end that the Offender or Offenders may be Proceéded against according to the Laws of this Our Realm in that behalf provided.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Newmarket</hi>
+                  </hi>
+                  <date>
+                     <hi>the Twelfth day of <hi>March,</hi> In the six and thirtieth Year of Our Reign, 1683/4.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by the Assigns of <hi>John Bill</hi> Deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings most Excellent Majesty. 1683/4.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
